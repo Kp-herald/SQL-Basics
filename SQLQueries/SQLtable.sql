@@ -1,3 +1,10 @@
+
+
+
+create database testDB
+
+use testdb
+
 CREATE TABLE Employees (
     EmployeeID INT PRIMARY KEY,
     FirstName NVARCHAR(50),
@@ -7,6 +14,7 @@ CREATE TABLE Employees (
     HireDate DATE,
     Salary DECIMAL(10, 2)
 );
+
 
 INSERT INTO Employees (EmployeeID, FirstName, LastName, Email, DepartmentID, HireDate, Salary)
 VALUES 
