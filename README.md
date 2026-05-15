@@ -16,4 +16,5 @@ Structured SQL learning journey from basics to advanced concepts, including assi
 
 ##  Author
 **K Pramod Herald**
+- kpherald7@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/k-pramod-herald-92a27b295)
